@@ -9,7 +9,7 @@ public class Inventory {
 
     public boolean tryDecrementCapacity(int numberOfSeats) {
         if (numberOfSeats > capacity) {
-            System.err.format("Number of seats requested greater than capacity");
+            System.out.println("Number of seats requested greater than capacity");
             return false;
         }
         capacity -= numberOfSeats;
