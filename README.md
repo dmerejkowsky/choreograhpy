@@ -1,4 +1,3 @@
 # Choreography
 
-A Python implementation of :
-https://github.com/arolla/ChoreographyKata
+Implementation of https://github.com/arolla/ChoreographyKata in several languages
